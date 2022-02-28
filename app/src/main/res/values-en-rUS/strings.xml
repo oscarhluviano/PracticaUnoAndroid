@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaUno</string>
+    <string name="result">Result</string>
+    <string name="select">Select the desired formula:</string>
+    <string-array name="options">
+        <item>Voltage</item>
+        <item>Current</item>
+        <item>Resistance</item>
+    </string-array>
+    <string name="voltaje">Voltage</string>
+    <string name="corriente">Current</string>
+    <string name="resistencia">Resistance</string>
+    <string name="warning">Enter missing values</string>
+    <string name="warningOp">Invalid operation</string>
+    <string name="version">Version 1.0</string>
+    <string name="name">Oscar Hernandez Luviano</string>
+</resources>
